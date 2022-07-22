@@ -6,10 +6,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-### Hi there，I'm Subranium 🙋‍♂️
+### Hi there，I'm Passakorn 🙋‍♂️
 
-- Open source is something I'm interested in.
-- Artificial intelligence is an area I'm focusing on right now.
+- I’m currently studying at King Mongkut's University of Technology Thonburi.
+- Front-End, Back-End, DevOps & more is an area I'm focusing on right now.
 
 <!--
 **jiewpassakorn/jiewpassakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
